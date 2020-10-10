@@ -41,7 +41,7 @@ namespace BookShopManagement
 
         public DataAccess()
         {
-            this.Sqlcon = new SqlConnection(@"Data Source=DESKTOP-26RO7OD;Initial Catalog=Bookshop;Persist Security Info=True;User ID=sa;Password=123456");
+            this.Sqlcon = new SqlConnection(@"Data Source=**************;Initial Catalog=Bookshop;Persist Security Info=True;User ID=***;Password=**********");
             this.Sqlcon.Open();
         }
 
