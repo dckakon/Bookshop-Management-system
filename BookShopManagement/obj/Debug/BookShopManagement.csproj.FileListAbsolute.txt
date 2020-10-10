@@ -1,0 +1,32 @@
+F:\C#\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+F:\C#\BookShopManagement\bin\Debug\BookShopManagement.exe
+F:\C#\BookShopManagement\bin\Debug\BookShopManagement.pdb
+F:\C#\BookShopManagement\obj\Debug\BookShopManagement.Login.resources
+F:\C#\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+F:\C#\BookShopManagement\obj\Debug\BookShopManagement.csproj.GenerateResource.cache
+F:\C#\BookShopManagement\obj\Debug\BookShopManagement.csproj.CoreCompileInputs.cache
+F:\C#\BookShopManagement\obj\Debug\BookShopManagement.exe
+F:\C#\BookShopManagement\obj\Debug\BookShopManagement.pdb
+F:\C#\BookShopManagement\obj\Debug\BookShopManagement.ManagerWindow.resources
+F:\C#\BookShopManagement\obj\Debug\BookShopManagement.ManageSeller.resources
+F:\C#\BookShopManagement\obj\Debug\BookShopManagement.ManageBook.resources
+F:\C#\BookShopManagement\obj\Debug\BookShopManagement.csprojAssemblyReference.cache
+F:\C#\BookShopManagement\obj\Debug\BookShopManagement.ChangePassword.resources
+F:\C#\BookShopManagement\obj\Debug\BookShopManagement.SellerWindow.resources
+F:\C#\BookShopManagement\obj\Debug\BookShopManagement.Records.resources
+H:\Group14_Book shop management system\BookShopManagement\bin\Debug\BookShopManagement.exe.config
+H:\Group14_Book shop management system\BookShopManagement\bin\Debug\BookShopManagement.exe
+H:\Group14_Book shop management system\BookShopManagement\bin\Debug\BookShopManagement.pdb
+H:\Group14_Book shop management system\BookShopManagement\obj\Debug\BookShopManagement.csprojAssemblyReference.cache
+H:\Group14_Book shop management system\BookShopManagement\obj\Debug\BookShopManagement.ChangePassword.resources
+H:\Group14_Book shop management system\BookShopManagement\obj\Debug\BookShopManagement.Login.resources
+H:\Group14_Book shop management system\BookShopManagement\obj\Debug\BookShopManagement.ManageBook.resources
+H:\Group14_Book shop management system\BookShopManagement\obj\Debug\BookShopManagement.ManagerWindow.resources
+H:\Group14_Book shop management system\BookShopManagement\obj\Debug\BookShopManagement.ManageSeller.resources
+H:\Group14_Book shop management system\BookShopManagement\obj\Debug\BookShopManagement.Properties.Resources.resources
+H:\Group14_Book shop management system\BookShopManagement\obj\Debug\BookShopManagement.Records.resources
+H:\Group14_Book shop management system\BookShopManagement\obj\Debug\BookShopManagement.SellerWindow.resources
+H:\Group14_Book shop management system\BookShopManagement\obj\Debug\BookShopManagement.csproj.GenerateResource.cache
+H:\Group14_Book shop management system\BookShopManagement\obj\Debug\BookShopManagement.csproj.CoreCompileInputs.cache
+H:\Group14_Book shop management system\BookShopManagement\obj\Debug\BookShopManagement.exe
+H:\Group14_Book shop management system\BookShopManagement\obj\Debug\BookShopManagement.pdb
